@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import requests
 
 def asdasdasd():
     print('hello fucking world!')
@@ -6,8 +7,8 @@ def asdasdasd():
 def asdasdasd():
     print('hello fucking world!')
 
-def test_func():
-    print('hello there')
+def make_req():
+    request.get('http://example.com')
 
 if __name__ == "__main__":
     asdasdasd()
