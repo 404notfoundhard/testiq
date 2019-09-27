@@ -6,6 +6,9 @@ def asdasdasd():
 def asdasdasd():
     print('hello fucking world!')
 
+def test_func():
+    print('hello there')
+
 if __name__ == "__main__":
     asdasdasd()
 
